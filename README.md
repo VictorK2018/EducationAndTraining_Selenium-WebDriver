@@ -1,2 +1,2 @@
 # Selenium-WebDriver-course
-Домашние задания для курса # sel-b5
+Labs # sel-b5, sel-b6
