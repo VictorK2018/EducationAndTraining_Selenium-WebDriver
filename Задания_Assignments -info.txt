@@ -1,0 +1,13 @@
+
+1. XAMPP as local web-server
+2. ''litecart''  web store as training application, ( https://www.litecart.net/ru/demo , version 1.3 )
+3. MySQL ''litecart'' database as XAMPP module
+4. Visual Studio 2019 (NuGet Packages: NUnit v2.6.0.12054, Selenium.WebDriver v3.141.0, 
+    Selenium.Support v3.141.0)
+5. Interact via   http://localhost/... ( user: admin pass: admin)
+
+Задание 1/ Assignment # 1: install software and prepare the infrastructure -done
+
+Задание 2/ Assignment # 2: install the training application -done
+
+Задание 3/ Assignment # 3: make a login script -done
